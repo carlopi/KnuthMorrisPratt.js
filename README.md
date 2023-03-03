@@ -22,5 +22,7 @@ Compiled to JavaScript with Cheerp
 - CJS `C:\cheerp\bin\clang++ -target cheerp .\KnuthMorrisPratt.cpp -O3 -o kmp.js -cheerp-make-module=commonjs`
 - Closure wrap `C:\cheerp\bin\clang++ -target cheerp .\KnuthMorrisPratt.cpp -O3 -o kmp.js -cheerp-make-module=commonjs`
 
+To understand how to use the module read [here](https://docs.leaningtech.com/cheerp/ES6-Modules)
+
 > **Note**
 > see the cheerp [documentation](https://docs.leaningtech.com/cheerp/Cheerp-specific-clang-options) for more options
