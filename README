@@ -1,5 +1,0 @@
-Knuth Morris Pratt algorithm from the Boost's algorithm library
-
-Added simpler C++ API
-
-Compiled to JavaScript with Cheerp
